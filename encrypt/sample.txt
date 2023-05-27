@@ -1,0 +1,12 @@
+[
+  {
+    "id": "my-id-1",
+    "createdAt": "my-created-at-1",
+    "payload": "my-payload-1"
+  },
+  {
+    "id": "my-id-2",
+    "createdAt": "my-created-at-2",
+    "payload": "my-payload-2"
+  }
+]
