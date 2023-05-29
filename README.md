@@ -1,2 +1,2 @@
-# java-study
-Java Study
+# programming-study
+Programming Study
